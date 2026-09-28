@@ -1,0 +1,6 @@
+2026-09-28 10:01:12 INFO Service started
+2026-09-28 10:02:45 ERROR Database connection timeout
+2026-09-28 10:03:10 WARN Disk usage at 78%
+2026-09-28 10:04:33 ERROR Database connection timeout
+2026-09-28 10:05:01 ERROR Payment API returned 500
+
